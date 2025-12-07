@@ -1,14 +1,9 @@
 ## About Me
 
-Hi, I’m Cl9s4bl3, a 16-year-old programmer who has been active in the community for over two years. Recently, I’ve been focusing on web development—mainly Next.js with TypeScript, Tailwind, and local databases like MySQL—but I’m also comfortable working with lower-level languages such as C, C++, and V. I’m not really the contributor type; I just genuinely enjoy programming and building things that might be useful to others.
+Hi, I’m Cl9s4bl3, a 16-year-old programmer who has been active in the community for over two years. Recently, I’ve been focusing on web development recently —mainly Next.js with TypeScript, Tailwind, and local databases like MySQL—but I’m also comfortable working with lower-level languages such as C, C++, and V. I’m not really the contributor type; I just genuinely enjoy programming and building things that might be useful to others.
 
 ## My Skills
 
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
-<img src="https://img.shields.io/badge/V-5D87BF?logo=v&logoColor=fff">
-<img src="https://img.shields.io/badge/Rust-orange?logo=rust&logoColor=black">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white"> 
 <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> 
 <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> 
@@ -16,8 +11,12 @@ Hi, I’m Cl9s4bl3, a 16-year-old programmer who has been active in the communit
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
-<img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"> 
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
+
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/V-5D87BF?logo=v&logoColor=fff">
+<img src="https://img.shields.io/badge/Rust-orange?logo=rust&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white"> 
 
 ## GitHub Stats
 
@@ -29,4 +28,5 @@ Hi, I’m Cl9s4bl3, a 16-year-old programmer who has been active in the communit
 
 
 <img src="https://raw.githubusercontent.com/Cl9s4bl3/Cl9s4bl3/output/snake.svg" alt="Snake animation" />
+
 
