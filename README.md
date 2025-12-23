@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I’m Cl9s4bl3, a 16-year-old programmer who has been active in the community for over two years. Recently, I’ve been focusing on web development recently —mainly Next.js with TypeScript, Tailwind, and local databases like MySQL—but I’m also comfortable working with lower-level languages such as C, C++, and V. I’m not really the contributor type; I just genuinely enjoy programming and building things that might be useful to others.
+Hi, I’m Cl9s4bl3, a 16-year-old programmer who has been active in the community for over two years. Recently, I’ve been focusing on web development —mainly Next.js with TypeScript, Tailwind, and local databases like MySQL—but I’m also comfortable working with lower-level languages such as C, C++, and V. I’m not really the contributor type; I just genuinely enjoy programming and building things that might be useful to others.
 
 ## My Skills
 
