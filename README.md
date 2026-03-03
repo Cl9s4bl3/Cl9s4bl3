@@ -13,7 +13,7 @@ Hi, I’m Cl9s4bl3, a 16-year-old programmer who has been active in the communit
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
-  
+  <br>
   <img src="https://img.shields.io/badge/NIM-ecbd00?logo=css3&logoColor=fff" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-orange?logo=rust&logoColor=black" />
@@ -32,6 +32,7 @@ Hi, I’m Cl9s4bl3, a 16-year-old programmer who has been active in the communit
 
 
 <img src="https://raw.githubusercontent.com/Cl9s4bl3/Cl9s4bl3/output/snake.svg" alt="Snake animation" />
+
 
 
 
