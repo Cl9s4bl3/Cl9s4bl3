@@ -1,25 +1,24 @@
 ## About Me
 
-Hi, I’m Cl9s4bl3, a 16-year-old programmer who has been active in the community for over two years. Recently, I’ve been focusing on web development —mainly Next.js with TypeScript, Tailwind, and local databases like MySQL—but I’m also comfortable working with lower-level languages such as C, C++, and V. I’m not really the contributor type; I just genuinely enjoy programming and building things that might be useful to others.
+Hi, I’m Cl9s4bl3, a 17-year-old programmer who has been active in the community for over two years. Recently, I’ve been focusing on systems programming —mainly Nim and Rust, creating my own Linux Distro from scratch — but I’m also comfortable working with higher-level languages such as Python, TypeScript (for the web), and Lua. I love and enjoy programming and building things that might be useful to others.
 
 ## My Skills
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-
-  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" />
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
-  <br>
-  <img src="https://img.shields.io/badge/NIM-ecbd00?logo=css3&logoColor=fff" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-orange?logo=rust&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white" />
-  
+    <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-darkcyan.svg?logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=fff" />
+    <img src="https://img.shields.io/badge/npm-darkred?logo=npm&logoColor=fff" />
+    <img src="https://img.shields.io/badge/HTML-orange.svg?logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-black?logo=css&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
+    <br>
+    <img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=yellow" />
+    <img src="https://img.shields.io/badge/Nim-yellow.svg?logo=nim&logoColor=white" />
+    <img src="https://img.shields.io/badge/Rust-orange?logo=rust&logoColor=black" />
+    <img src="https://img.shields.io/badge/C++-blue.svg?logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Lua-darkblue.svg?logo=lua&logoColor=white" />
 </div>
 
 ## GitHub Stats
